@@ -1,0 +1,11 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="80" />
+  <Ruby>
+    <option name="INDENT_PROTECTED_METHODS" value="true" />
+  </Ruby>
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

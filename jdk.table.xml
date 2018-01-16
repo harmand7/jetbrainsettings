@@ -1,0 +1,25 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Chef DK: /opt/chefdk" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.4.2p198 ( revision 59899) p198" />
+      <homePath value="/opt/chefdk/embedded/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/chefdk/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs24" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file:///opt/chefdk/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs24" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.4.2p198 ( revision 59899) p198" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="/opt/chefdk/embedded/bin" />
+    </jdk>
+  </component>
+</application>

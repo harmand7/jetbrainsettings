@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="bip0319p01" type="PLAIN_TEXT" />
+      <mapping pattern="change_device_hostname" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

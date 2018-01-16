@@ -1,0 +1,27 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="MoveTabDown">
+        <abbreviation name="Move Down" />
+        <abbreviation name="Down" />
+        <abbreviation name="dd" />
+        <abbreviation name="DD" />
+      </action>
+      <action id="Unsplit">
+        <abbreviation name="unsplit" />
+        <abbreviation name="us" />
+        <abbreviation name="US" />
+      </action>
+      <action id="UnsplitAll">
+        <abbreviation name="USA" />
+        <abbreviation name="usa" />
+      </action>
+      <action id="MoveTabRight">
+        <abbreviation name="Move Right" />
+        <abbreviation name="Right" />
+        <abbreviation name="rr" />
+        <abbreviation name="RR" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
