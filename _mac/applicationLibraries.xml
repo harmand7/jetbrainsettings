@@ -8,7 +8,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/activesupport-4.2.8/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v4.2.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/activesupport-4.2.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/activesupport-4.2.8/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.4.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/data" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/data" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.4.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/data" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/lib" />
@@ -28,7 +48,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/app_conf-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="app_conf (v0.4.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/app_conf-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/app_conf-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="appbundler (v0.10.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="appbundler (v0.10.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/appbundler-0.10.0/bin" />
@@ -46,7 +84,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/artifactory-2.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="artifactory (v2.8.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/artifactory-2.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/artifactory-2.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.3.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ast (v2.3.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ast-2.3.0/lib" />
       </CLASSES>
@@ -64,7 +118,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/autoparse-0.3.3/tasks" />
       </SOURCES>
     </library>
+    <library name="autoparse (v0.3.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/autoparse-0.3.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/autoparse-0.3.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/autoparse-0.3.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/autoparse-0.3.3/tasks" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.9.3, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-2.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-2.9.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk (v2.9.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-2.9.3/lib" />
       </CLASSES>
@@ -84,7 +156,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.9.3/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v2.9.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.9.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.9.3/apis" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.9.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.9.3/apis" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.9.3/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources (v2.9.3, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.9.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.9.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.9.3/lib" />
       </CLASSES>
@@ -104,7 +196,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-v1-1.67.0/rails" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-v1 (v1.67.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-v1-1.67.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-v1-1.67.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-v1-1.67.0/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-v1-1.67.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-v1-1.67.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sdk-v1-1.67.0/rails" />
+      </SOURCES>
+    </library>
     <library name="aws-sigv4 (v1.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
       </CLASSES>
@@ -128,7 +240,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/features" />
       </SOURCES>
     </library>
+    <library name="berkshelf (v5.6.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/generator_files" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/generator_files" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-5.6.4/features" />
+      </SOURCES>
+    </library>
     <library name="berkshelf-api-client (v3.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-api-client-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-api-client-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="berkshelf-api-client (v3.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/berkshelf-api-client-3.0.0/lib" />
       </CLASSES>
@@ -170,7 +306,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="binding_of_caller (v0.7.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="blankslate (v2.1.2.4, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/blankslate-2.1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/blankslate-2.1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="blankslate (v2.1.2.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/blankslate-2.1.2.4/lib" />
       </CLASSES>
@@ -186,7 +340,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-config-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="buff-config (v2.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-config-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-config-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="buff-extensions (v2.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-extensions-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-extensions-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="buff-extensions (v2.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-extensions-2.0.0/lib" />
       </CLASSES>
@@ -202,6 +372,14 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-ignore-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="buff-ignore (v1.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-ignore-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-ignore-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="buff-ruby_engine (v1.0.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-ruby_engine-1.0.0/lib" />
@@ -210,7 +388,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-ruby_engine-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="buff-ruby_engine (v1.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-ruby_engine-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-ruby_engine-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="buff-shell_out (v1.1.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-shell_out-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-shell_out-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="buff-shell_out (v1.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/buff-shell_out-1.1.0/lib" />
       </CLASSES>
@@ -228,7 +422,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/builder-3.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="builder (v3.2.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/builder-3.2.3/rakelib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/builder-3.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/builder-3.2.3/rakelib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/builder-3.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.16.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/exe" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/man" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/exe" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/man" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.16.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/exe" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/man" />
@@ -252,7 +468,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
       </SOURCES>
     </library>
+    <library name="byebug (v9.0.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
+      </SOURCES>
+    </library>
     <library name="celluloid (v0.16.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-0.16.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="celluloid (v0.16.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-0.16.0/lib" />
       </CLASSES>
@@ -274,7 +510,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/lib" />
       </SOURCES>
     </library>
+    <library name="celluloid-io (v0.16.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/benchmarks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/log" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/benchmarks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/log" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/celluloid-io-0.16.2/lib" />
+      </SOURCES>
+    </library>
     <library name="CFPropertyList (v2.3.5, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="CFPropertyList (v2.3.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.3.5/lib" />
       </CLASSES>
@@ -302,7 +560,35 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/tasks" />
       </SOURCES>
     </library>
+    <library name="chef (v12.21.26, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/distro" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/lib-backcompat" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/acceptance" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/distro" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/lib-backcompat" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/acceptance" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.21.26/tasks" />
+      </SOURCES>
+    </library>
     <library name="chef-config (v12.21.26, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-config-12.21.26/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-config-12.21.26/lib" />
+      </SOURCES>
+    </library>
+    <library name="chef-config (v12.21.26, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-config-12.21.26/lib" />
       </CLASSES>
@@ -326,7 +612,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/acceptance" />
       </SOURCES>
     </library>
+    <library name="chef-dk (v1.6.11, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-dk-1.6.11/acceptance" />
+      </SOURCES>
+    </library>
     <library name="chef-provisioning (v2.2.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="chef-provisioning (v2.2.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-2.2.1/lib" />
       </CLASSES>
@@ -342,7 +652,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-aws-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="chef-provisioning-aws (v2.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-aws-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-aws-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="chef-provisioning-azure (v0.6.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-azure-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-azure-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="chef-provisioning-azure (v0.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-azure-0.6.0/lib" />
       </CLASSES>
@@ -358,6 +684,14 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-fog-0.24.0/lib" />
       </SOURCES>
     </library>
+    <library name="chef-provisioning-fog (v0.24.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-fog-0.24.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-fog-0.24.0/lib" />
+      </SOURCES>
+    </library>
     <library name="chef-provisioning-vagrant (v0.11.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-vagrant-0.11.0/lib" />
@@ -366,7 +700,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-vagrant-0.11.0/lib" />
       </SOURCES>
     </library>
+    <library name="chef-provisioning-vagrant (v0.11.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-vagrant-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-provisioning-vagrant-0.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="chef-sugar (v3.4.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-sugar-3.4.0/recipes" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-sugar-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-sugar-3.4.0/recipes" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-sugar-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="chef-sugar (v3.4.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-sugar-3.4.0/recipes" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-sugar-3.4.0/lib" />
@@ -392,6 +744,22 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/features" />
       </SOURCES>
     </library>
+    <library name="chef-vault (v2.9.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-vault-2.9.2/features" />
+      </SOURCES>
+    </library>
     <library name="chef-zero (v5.3.2, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.2/lib" />
@@ -402,7 +770,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.2/bin" />
       </SOURCES>
     </library>
+    <library name="chef-zero (v5.3.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-zero-5.3.2/bin" />
+      </SOURCES>
+    </library>
     <library name="cheffish (v5.0.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cheffish-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cheffish-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cheffish (v5.0.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cheffish-5.0.1/lib" />
       </CLASSES>
@@ -424,7 +810,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="chefspec (v6.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/templates" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/templates" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chefspec-6.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="cleanroom (v1.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cleanroom-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cleanroom-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cleanroom (v1.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cleanroom-1.0.0/lib" />
       </CLASSES>
@@ -442,6 +850,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="cookbook-omnifetch (v0.5.1, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookbook-omnifetch-0.5.1/lib" />
@@ -450,7 +868,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookbook-omnifetch-0.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="cookbook-omnifetch (v0.5.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookbook-omnifetch-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookbook-omnifetch-0.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="cookstyle (v1.4.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/config" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/.bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/config" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/.bundle" />
+      </SOURCES>
+    </library>
+    <library name="cookstyle (v1.4.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cookstyle-1.4.0/bin" />
@@ -480,6 +920,22 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/.github" />
       </SOURCES>
     </library>
+    <library name="cucumber (v2.4.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/gem_tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/gem_tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-2.4.0/.github" />
+      </SOURCES>
+    </library>
     <library name="cucumber-core (v1.5.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-core-1.5.0/lib" />
@@ -488,7 +944,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-core-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="cucumber-core (v1.5.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-core-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-core-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="cucumber-wire (v0.0.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-wire-0.0.1/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-wire-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-wire-0.0.1/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-wire-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cucumber-wire (v0.0.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-wire-0.0.1/features" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/cucumber-wire-0.0.1/lib" />
@@ -512,7 +986,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/.bundle" />
       </SOURCES>
     </library>
+    <library name="dco (v1.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/.bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dco-1.0.1/.bundle" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
+      </SOURCES>
+    </library>
+    <library name="debug_inspector (v0.0.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
@@ -532,6 +1030,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep-selector-libgecode-1.3.1/ext" />
       </SOURCES>
     </library>
+    <library name="dep-selector-libgecode (v1.3.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep-selector-libgecode-1.3.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep-selector-libgecode-1.3.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep-selector-libgecode-1.3.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep-selector-libgecode-1.3.1/ext" />
+      </SOURCES>
+    </library>
     <library name="dep_selector (v1.0.4, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep_selector-1.0.4/lib" />
@@ -542,7 +1050,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep_selector-1.0.4/ext" />
       </SOURCES>
     </library>
+    <library name="dep_selector (v1.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep_selector-1.0.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep_selector-1.0.4/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep_selector-1.0.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/dep_selector-1.0.4/ext" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="did_you_mean (v1.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
@@ -566,7 +1096,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="diffy (v3.2.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diffy-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diffy-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="diffy (v3.2.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/diffy-3.2.0/lib" />
       </CLASSES>
@@ -582,7 +1132,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/docker-api-1.33.3/lib" />
       </SOURCES>
     </library>
+    <library name="docker-api (v1.33.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/docker-api-1.33.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/docker-api-1.33.3/lib" />
+      </SOURCES>
+    </library>
     <library name="erubis (v2.7.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/benchmark" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/benchmark" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/contrib" />
+      </SOURCES>
+    </library>
+    <library name="erubis (v2.7.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc-api" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/lib" />
@@ -612,7 +1186,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/data" />
       </SOURCES>
     </library>
+    <library name="excon (v0.55.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/benchmarks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/benchmarks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/excon-0.55.0/data" />
+      </SOURCES>
+    </library>
     <library name="extlib (v0.9.16, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/extlib-0.9.16/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/extlib-0.9.16/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/extlib-0.9.16/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/extlib-0.9.16/tasks" />
+      </SOURCES>
+    </library>
+    <library name="extlib (v0.9.16, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/extlib-0.9.16/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/extlib-0.9.16/tasks" />
@@ -630,7 +1228,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/faraday-0.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.9.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="fauxhai (v4.1.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/tmp" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/.bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/tmp" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/.bundle" />
+      </SOURCES>
+    </library>
+    <library name="fauxhai (v4.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fauxhai-4.1.0/bin" />
@@ -660,6 +1280,20 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/gen" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.9.18, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/libtest" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/gen" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/libtest" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/gen" />
+      </SOURCES>
+    </library>
     <library name="ffi-rzmq (v2.0.5, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-2.0.5/lib" />
@@ -670,7 +1304,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-2.0.5/ext" />
       </SOURCES>
     </library>
+    <library name="ffi-rzmq (v2.0.5, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-2.0.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-2.0.5/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-2.0.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-2.0.5/ext" />
+      </SOURCES>
+    </library>
     <library name="ffi-rzmq-core (v1.0.6, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-core-1.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-core-1.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="ffi-rzmq-core (v1.0.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-rzmq-core-1.0.6/lib" />
       </CLASSES>
@@ -690,7 +1342,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="ffi-yajl (v2.3.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.1/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.1/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ffi-yajl-2.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="fission (v0.5.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fission-0.5.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fission-0.5.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fission-0.5.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fission-0.5.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="fission (v0.5.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fission-0.5.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fission-0.5.0/bin" />
@@ -716,6 +1390,22 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog (v1.40.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/benchs" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/benchs" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-1.40.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-aliyun (v0.1.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.1.0/lib" />
@@ -726,7 +1416,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.1.0/bin" />
       </SOURCES>
     </library>
+    <library name="fog-aliyun (v0.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.1.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aliyun-0.1.0/bin" />
+      </SOURCES>
+    </library>
     <library name="fog-atmos (v0.1.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-atmos (v0.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/gemfiles" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-atmos-0.1.0/lib" />
@@ -750,7 +1462,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aws-1.3.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-aws (v1.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aws-1.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aws-1.3.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aws-1.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aws-1.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aws-1.3.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-aws-1.3.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-brightbox (v0.11.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.11.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.11.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.11.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.11.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.11.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.11.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-brightbox (v0.11.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.11.0/tests" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-brightbox-0.11.0/lib" />
@@ -772,6 +1508,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-cloudatcost-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="fog-cloudatcost (v0.1.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-cloudatcost-0.1.2/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-cloudatcost-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-cloudatcost-0.1.2/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-cloudatcost-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-core (v1.43.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-core-1.43.0/lib" />
@@ -780,7 +1526,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-core-1.43.0/lib" />
       </SOURCES>
     </library>
+    <library name="fog-core (v1.43.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-core-1.43.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-core-1.43.0/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-digitalocean (v0.3.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-digitalocean (v0.3.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/tests" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-digitalocean-0.3.0/gemfiles" />
@@ -804,7 +1570,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/bin" />
       </SOURCES>
     </library>
+    <library name="fog-dnsimple (v1.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dnsimple-1.0.0/bin" />
+      </SOURCES>
+    </library>
     <library name="fog-dynect (v0.0.3, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-dynect (v0.0.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/tests" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-dynect-0.0.3/gemfiles" />
@@ -828,7 +1618,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="fog-ecloud (v0.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-ecloud-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-google (v0.1.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-google (v0.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/tests" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-google-0.1.0/gemfiles" />
@@ -850,7 +1664,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-json-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="fog-json (v1.0.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-json-1.0.2/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-json-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-json-1.0.2/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-json-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-local (v0.3.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-local-0.3.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-local-0.3.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-local-0.3.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-local-0.3.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-local (v0.3.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-local-0.3.1/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-local-0.3.1/tests" />
@@ -872,6 +1706,18 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.20/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-openstack (v0.1.20, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.20/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.20/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.20/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.20/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.20/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-openstack-0.1.20/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-powerdns (v0.1.1, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/lib" />
@@ -882,7 +1728,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/bin" />
       </SOURCES>
     </library>
+    <library name="fog-powerdns (v0.1.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-powerdns-0.1.1/bin" />
+      </SOURCES>
+    </library>
     <library name="fog-profitbricks (v3.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-profitbricks (v3.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-profitbricks-3.0.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-profitbricks-3.0.0/tests" />
@@ -906,7 +1774,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.4/bin" />
       </SOURCES>
     </library>
+    <library name="fog-rackspace (v0.1.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.4/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.4/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-rackspace-0.1.4/bin" />
+      </SOURCES>
+    </library>
     <library name="fog-radosgw (v0.0.5, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-radosgw (v0.0.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/gemfiles" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-radosgw-0.0.5/lib" />
@@ -930,7 +1822,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-riakcs (v0.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-riakcs-0.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-sakuracloud (v1.7.5, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-sakuracloud (v1.7.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-sakuracloud-1.7.5/tests" />
@@ -950,7 +1864,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-scaleway-0.2.1/bin" />
       </SOURCES>
     </library>
+    <library name="fog-scaleway (v0.2.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-scaleway-0.2.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-scaleway-0.2.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-scaleway-0.2.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-scaleway-0.2.1/bin" />
+      </SOURCES>
+    </library>
     <library name="fog-serverlove (v0.1.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-serverlove (v0.1.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/tests" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-serverlove-0.1.2/lib" />
@@ -974,7 +1910,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="fog-softlayer (v1.1.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-softlayer-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-storm_on_demand (v0.1.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-storm_on_demand (v0.1.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-storm_on_demand-0.1.1/gemfiles" />
@@ -994,6 +1952,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-terremark-0.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="fog-terremark (v0.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-terremark-0.1.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-terremark-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-terremark-0.1.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-terremark-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-vmfusion (v0.1.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/lib" />
@@ -1004,7 +1972,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-vmfusion (v0.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vmfusion-0.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-voxel (v0.1.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-voxel (v0.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-voxel-0.1.0/gemfiles" />
@@ -1028,6 +2018,18 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="fog-vsphere (v1.9.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.9.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.9.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.9.0/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.9.0/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-vsphere-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-xenserver (v0.3.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/lib" />
@@ -1038,7 +2040,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-xenserver (v0.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xenserver-0.3.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-xml (v0.1.3, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-xml (v0.1.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/gemfiles" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/lib" />
@@ -1068,6 +2090,62 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/.bundle" />
       </SOURCES>
     </library>
+    <library name="foodcritic (v10.2.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/chef_dsl_metadata" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/misc" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/man" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/.bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/chef_dsl_metadata" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/misc" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/man" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/foodcritic-10.2.2/.bundle" />
+      </SOURCES>
+    </library>
+    <library name="foodcritic (v12.2.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/features" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/chef_dsl_metadata" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/man" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/misc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/features" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/chef_dsl_metadata" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/man" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/misc" />
+      </SOURCES>
+    </library>
+    <library name="foodcritic (v12.2.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/features" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/chef_dsl_metadata" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/man" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/misc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/features" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/chef_dsl_metadata" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/man" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/foodcritic-12.2.2/misc" />
+      </SOURCES>
+    </library>
     <library name="formatador (v0.2.5, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/lib" />
@@ -1078,7 +2156,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/tests" />
       </SOURCES>
     </library>
+    <library name="formatador (v0.2.5, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+    </library>
     <library name="fuzzyurl (v0.9.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fuzzyurl-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fuzzyurl-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fuzzyurl (v0.9.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/fuzzyurl-0.9.0/lib" />
       </CLASSES>
@@ -1100,7 +2196,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="gherkin (v4.1.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/berp" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/testdata" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/berp" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/testdata" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gherkin-4.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="git (v1.3.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/git-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/git-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="git (v1.3.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/git-1.3.0/lib" />
       </CLASSES>
@@ -1116,6 +2234,14 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/google-api-client-0.8.7/lib" />
       </SOURCES>
     </library>
+    <library name="google-api-client (v0.8.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/google-api-client-0.8.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/google-api-client-0.8.7/lib" />
+      </SOURCES>
+    </library>
     <library name="googleauth (v0.5.1, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/googleauth-0.5.1/lib" />
@@ -1124,7 +2250,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/googleauth-0.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="googleauth (v0.5.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/googleauth-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/googleauth-0.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="gssapi (v1.2.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gssapi-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gssapi-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="gssapi (v1.2.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gssapi-1.2.0/lib" />
       </CLASSES>
@@ -1146,6 +2288,20 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/images" />
       </SOURCES>
     </library>
+    <library name="guard (v2.14.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/man" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/man" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/guard-2.14.1/images" />
+      </SOURCES>
+    </library>
     <library name="gyoku (v1.3.1, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
@@ -1154,7 +2310,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="gyoku (v1.3.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="hashie (v3.5.6, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hashie-3.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hashie-3.5.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.5.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hashie-3.5.6/lib" />
       </CLASSES>
@@ -1172,7 +2344,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/highline-1.7.10/lib" />
       </SOURCES>
     </library>
+    <library name="highline (v1.7.10, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/highline-1.7.10/site" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/highline-1.7.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/highline-1.7.10/site" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/highline-1.7.10/lib" />
+      </SOURCES>
+    </library>
     <library name="hitimes (v1.2.4, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/ext" />
+      </SOURCES>
+    </library>
+    <library name="hitimes (v1.2.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/tasks" />
@@ -1196,7 +2390,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/sample" />
       </SOURCES>
     </library>
+    <library name="httpclient (v2.8.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.8.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/i18n-0.8.1/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/i18n-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/i18n-0.8.1/gemfiles" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/i18n-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.8.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/i18n-0.8.1/gemfiles" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/i18n-0.8.1/lib" />
@@ -1216,6 +2432,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inflecto-0.0.2/config" />
       </SOURCES>
     </library>
+    <library name="inflecto (v0.0.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inflecto-0.0.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inflecto-0.0.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inflecto-0.0.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inflecto-0.0.2/config" />
+      </SOURCES>
+    </library>
     <library name="inifile (v3.0.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inifile-3.0.0/lib" />
@@ -1224,7 +2450,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inifile-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="inifile (v3.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inifile-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inifile-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="iniparse (v1.4.4, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/iniparse-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/iniparse-1.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="iniparse (v1.4.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/iniparse-1.4.4/lib" />
       </CLASSES>
@@ -1244,6 +2486,18 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inspec-1.25.1/bin" />
       </SOURCES>
     </library>
+    <library name="inspec (v1.25.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inspec-1.25.1/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inspec-1.25.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inspec-1.25.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inspec-1.25.1/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inspec-1.25.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/inspec-1.25.1/bin" />
+      </SOURCES>
+    </library>
     <library name="ipaddress (v0.8.3, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/lib" />
@@ -1252,7 +2506,51 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="ipaddress (v0.8.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="iStats (v1.5.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/integrations" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/integrations" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="iStats (v1.5.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/integrations" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/integrations" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/iStats-1.5.2/bin" />
+      </SOURCES>
+    </library>
     <library name="jmespath (v1.3.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/jmespath-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/jmespath-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jmespath (v1.3.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/jmespath-1.3.1/lib" />
       </CLASSES>
@@ -1296,6 +2594,26 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/tools" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/java" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/tools" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/java" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
+      </SOURCES>
+    </library>
     <library name="json (v2.0.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///usr/lib/ruby/2.0.0/json/add" />
@@ -1312,7 +2630,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v1.5.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/lib" />
+      </SOURCES>
+    </library>
     <library name="kitchen-dokken (v2.1.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-dokken-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-dokken-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="kitchen-dokken (v2.1.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-dokken-2.1.2/lib" />
       </CLASSES>
@@ -1328,7 +2662,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-ec2-1.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="kitchen-ec2 (v1.3.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-ec2-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-ec2-1.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="kitchen-inspec (v0.17.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-inspec-0.17.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-inspec-0.17.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-inspec-0.17.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-inspec-0.17.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="kitchen-inspec (v0.17.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-inspec-0.17.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-inspec-0.17.0/bin" />
@@ -1350,7 +2702,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-vagrant-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="kitchen-vagrant (v1.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-vagrant-1.1.0/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-vagrant-1.1.0/templates" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-vagrant-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-vagrant-1.1.0/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-vagrant-1.1.0/templates" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/kitchen-vagrant-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="knife-opc (v0.3.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-opc-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-opc-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="knife-opc (v0.3.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-opc-0.3.2/lib" />
       </CLASSES>
@@ -1366,7 +2738,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-push-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="knife-push (v1.0.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-push-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-push-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="knife-spork (v1.6.3, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-spork-1.6.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-spork-1.6.3/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-spork-1.6.3/plugins" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-spork-1.6.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-spork-1.6.3/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-spork-1.6.3/plugins" />
+      </SOURCES>
+    </library>
+    <library name="knife-spork (v1.6.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-spork-1.6.3/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-spork-1.6.3/.bundle" />
@@ -1388,7 +2780,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-windows-1.9.0/features" />
       </SOURCES>
     </library>
+    <library name="knife-windows (v1.9.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-windows-1.9.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-windows-1.9.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-windows-1.9.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/knife-windows-1.9.0/features" />
+      </SOURCES>
+    </library>
     <library name="launchy (v2.4.3, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
+    <library name="launchy (v2.4.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/launchy-2.4.3/bin" />
@@ -1410,7 +2824,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="libyajl2 (v1.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/libyajl2-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.1.5, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/listen-3.1.5/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/listen-3.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/listen-3.1.5/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/listen-3.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.1.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/listen-3.1.5/bin" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/listen-3.1.5/lib" />
@@ -1428,7 +2862,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/little-plugger-1.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="little-plugger (v1.1.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/little-plugger-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/little-plugger-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="logging (v2.2.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/logging-2.2.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/logging-2.2.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/logging-2.2.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/logging-2.2.0/script" />
+      </SOURCES>
+    </library>
+    <library name="logging (v2.2.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/logging-2.2.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/logging-2.2.0/script" />
@@ -1446,7 +2898,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.11/lib" />
       </SOURCES>
     </library>
+    <library name="lumberjack (v1.0.11, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.11/lib" />
+      </SOURCES>
+    </library>
     <library name="macaddr (v1.7.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/macaddr-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/macaddr-1.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="macaddr (v1.7.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/macaddr-1.7.1/lib" />
       </CLASSES>
@@ -1464,6 +2932,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/memoist-0.15.0/script" />
       </SOURCES>
     </library>
+    <library name="memoist (v0.15.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/memoist-0.15.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/memoist-0.15.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/memoist-0.15.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/memoist-0.15.0/script" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
@@ -1472,7 +2950,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v3.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
       </CLASSES>
@@ -1490,6 +2984,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
+    <library name="mime-types-data (v3.2016.0521, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
     <library name="mini_portile2 (v2.1.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/lib" />
@@ -1498,7 +3002,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="minitar (v0.5.4, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitar-0.5.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitar-0.5.4/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitar-0.5.4/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitar-0.5.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitar-0.5.4/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitar-0.5.4/tests" />
+      </SOURCES>
+    </library>
+    <library name="minitar (v0.5.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitar-0.5.4/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitar-0.5.4/bin" />
@@ -1526,7 +3050,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.10.1/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.8.5, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.8.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.8.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/minitest-5.8.5/lib" />
       </CLASSES>
@@ -1542,7 +3082,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-archive-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="mixlib-archive (v0.4.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-archive-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-archive-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mixlib-authentication (v1.4.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-authentication-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-authentication-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mixlib-authentication (v1.4.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-authentication-1.4.1/lib" />
       </CLASSES>
@@ -1558,7 +3114,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-cli-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="mixlib-cli (v1.7.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-cli-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-cli-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mixlib-config (v2.2.4, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-config-2.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-config-2.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="mixlib-config (v2.2.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-config-2.2.4/lib" />
       </CLASSES>
@@ -1582,7 +3154,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/acceptance" />
       </SOURCES>
     </library>
+    <library name="mixlib-install (v2.1.12, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/support" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/ci" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/support" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/ci" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-install-2.1.12/acceptance" />
+      </SOURCES>
+    </library>
     <library name="mixlib-log (v1.7.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-log-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-log-1.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mixlib-log (v1.7.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-log-1.7.1/lib" />
       </CLASSES>
@@ -1598,7 +3194,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-shellout-2.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="mixlib-shellout (v2.3.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-shellout-2.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-shellout-2.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mixlib-versioning (v1.1.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-versioning-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-versioning-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mixlib-versioning (v1.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/mixlib-versioning-1.1.0/lib" />
       </CLASSES>
@@ -1614,7 +3226,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/molinillo-0.5.7/lib" />
       </SOURCES>
     </library>
+    <library name="molinillo (v0.5.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/molinillo-0.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/molinillo-0.5.7/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.12.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.12.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
       </CLASSES>
@@ -1630,7 +3258,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multi_test-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="multi_test (v0.1.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multi_test-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multi_test-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="multipart-post (v2.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
       </CLASSES>
@@ -1646,6 +3290,14 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="nenv (v0.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nenv-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nenv-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.2.1, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-scp-1.2.1/lib" />
@@ -1654,7 +3306,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-scp-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-scp (v1.2.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-scp-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-sftp (v2.1.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-sftp (v2.1.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib" />
       </CLASSES>
@@ -1672,6 +3340,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-4.1.0/support" />
       </SOURCES>
     </library>
+    <library name="net-ssh (v4.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-4.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-4.1.0/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-4.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-4.1.0/support" />
+      </SOURCES>
+    </library>
     <library name="net-ssh-gateway (v1.3.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-gateway-1.3.0/lib" />
@@ -1680,7 +3358,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-gateway-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="net-ssh-gateway (v1.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-gateway-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-gateway-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="net-ssh-multi (v1.2.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-multi-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-multi-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh-multi (v1.2.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-ssh-multi-1.2.1/lib" />
       </CLASSES>
@@ -1698,7 +3392,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
       </SOURCES>
     </library>
+    <library name="net-telnet (v0.1.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="nio4r (v2.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
@@ -1728,7 +3444,35 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/patches" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.7.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/suppressions" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/suppressions" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.2/patches" />
+      </SOURCES>
+    </library>
     <library name="nori (v2.6.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nori-2.6.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nori-2.6.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="nori (v2.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nori-2.6.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark" />
@@ -1748,6 +3492,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/notiffany-0.1.1/images" />
       </SOURCES>
     </library>
+    <library name="notiffany (v0.1.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/notiffany-0.1.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/notiffany-0.1.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/notiffany-0.1.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/notiffany-0.1.1/images" />
+      </SOURCES>
+    </library>
     <library name="octokit (v4.6.2, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/octokit-4.6.2/lib" />
@@ -1756,7 +3510,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/octokit-4.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="octokit (v4.6.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/octokit-4.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/octokit-4.6.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ohai (v8.25.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.25.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.25.1/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.25.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.25.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.25.1/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.25.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ohai (v8.25.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.25.1/bin" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.25.1/.bundle" />
@@ -1794,7 +3568,35 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/omnibus" />
       </SOURCES>
     </library>
+    <library name="opscode-pushy-client (v2.4.5, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/jenkins" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/keys" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/omnibus" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/jenkins" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/keys" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/opscode-pushy-client-2.4.5/omnibus" />
+      </SOURCES>
+    </library>
     <library name="os (v0.9.6, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/os-0.9.6/autotest" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/os-0.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/os-0.9.6/autotest" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/os-0.9.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="os (v0.9.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/os-0.9.6/autotest" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/os-0.9.6/lib" />
@@ -1812,12 +3614,44 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/paint-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="paint (v1.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/paint-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/paint-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.11.1, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parallel-1.11.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parallel-1.11.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel (v1.11.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parallel-1.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parallel-1.11.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parseconfig (v1.0.8, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parseconfig-1.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parseconfig-1.0.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="parseconfig (v1.0.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parseconfig-1.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parseconfig-1.0.8/lib" />
       </SOURCES>
     </library>
     <library name="parser (v2.4.0.0, Chef DK: /opt/chefdk) [gem]">
@@ -1830,7 +3664,47 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.4.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parser-2.4.0.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parser-2.4.0.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parser-2.4.0.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/parser-2.4.0.2/bin" />
+      </SOURCES>
+    </library>
     <library name="parslet (v1.5.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parslet-1.5.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parslet-1.5.0/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parslet-1.5.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parslet-1.5.0/example" />
+      </SOURCES>
+    </library>
+    <library name="parslet (v1.5.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parslet-1.5.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/parslet-1.5.0/example" />
@@ -1850,7 +3724,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/plist-3.3.0/bin" />
       </SOURCES>
     </library>
+    <library name="plist (v3.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/plist-3.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/plist-3.3.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/plist-3.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/plist-3.3.0/bin" />
+      </SOURCES>
+    </library>
     <library name="polyglot (v0.3.5, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/polyglot-0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/polyglot-0.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="polyglot (v0.3.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/polyglot-0.3.5/lib" />
       </CLASSES>
@@ -1866,6 +3758,14 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="power_assert (v0.2.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
+      </SOURCES>
+    </library>
     <library name="powerpack (v0.1.1, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
@@ -1874,7 +3774,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="powerpack (v0.1.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="proxifier (v1.0.3, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="proxifier (v1.0.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/proxifier-1.0.3/bin" />
@@ -1894,7 +3812,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
       </SOURCES>
     </library>
+    <library name="pry (v0.10.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-0.10.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-0.10.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
+      </SOURCES>
+    </library>
     <library name="pry-byebug (v3.4.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-byebug (v3.4.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
       </CLASSES>
@@ -1912,7 +3848,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-remote-0.1.8/lib" />
       </SOURCES>
     </library>
+    <library name="pry-remote (v0.1.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-remote-0.1.8/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-remote-0.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-remote-0.1.8/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-remote-0.1.8/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-stack_explorer (v0.4.9.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-stack_explorer-0.4.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-stack_explorer-0.4.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-stack_explorer (v0.4.9.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/pry-stack_explorer-0.4.9.2/lib" />
       </CLASSES>
@@ -1976,7 +3930,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/contrib" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/example" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/example" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rack-2.0.3/contrib" />
+      </SOURCES>
+    </library>
     <library name="rainbow (v2.2.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.2/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.2/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.2.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.2/ext" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rainbow-2.2.2/lib" />
@@ -2012,7 +3990,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.3.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-12.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-12.3.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-12.3.0/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-12.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-12.3.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-12.3.0/exe" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-12.3.0/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rake-12.3.0/bin" />
@@ -2036,7 +4038,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.9.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
+      </SOURCES>
+    </library>
     <library name="rb-inotify (v0.9.8, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-inotify-0.9.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-inotify-0.9.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-inotify-0.9.8/lib" />
       </CLASSES>
@@ -2054,7 +4076,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/lib" />
       </SOURCES>
     </library>
+    <library name="rb-readline (v0.5.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/bench" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/bench" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rbvmomi (v1.10.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rbvmomi-1.10.0/exe" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rbvmomi-1.10.0/devel" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rbvmomi-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rbvmomi-1.10.0/exe" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rbvmomi-1.10.0/devel" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rbvmomi-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rbvmomi (v1.10.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rbvmomi-1.10.0/exe" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rbvmomi-1.10.0/devel" />
@@ -2144,7 +4188,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rdoc-5.1.0/exe" />
       </SOURCES>
     </library>
+    <library name="rdoc (v5.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rdoc-5.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rdoc-5.1.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rdoc-5.1.0/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rdoc-5.1.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rdoc-5.1.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rdoc-5.1.0/exe" />
+      </SOURCES>
+    </library>
     <library name="retriable (v1.4.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/retriable-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/retriable-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="retriable (v1.4.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/retriable-1.4.1/lib" />
       </CLASSES>
@@ -2160,6 +4224,14 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/retryable-2.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="retryable (v2.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/retryable-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/retryable-2.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="ridley (v5.1.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ridley-5.1.0/lib" />
@@ -2168,7 +4240,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ridley-5.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="ridley (v5.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ridley-5.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ridley-5.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.6.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-3.6.0/lib" />
       </CLASSES>
@@ -2186,7 +4274,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-core-3.6.0/exe" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.6.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-core-3.6.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-core-3.6.0/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-core-3.6.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-core-3.6.0/exe" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.6.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.6.0/lib" />
       </CLASSES>
@@ -2206,7 +4312,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/features" />
       </SOURCES>
     </library>
+    <library name="rspec-its (v1.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/script" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/script" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-its-1.2.0/features" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.6.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.6.0/lib" />
       </CLASSES>
@@ -2222,7 +4348,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-support-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-support (v3.6.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-support-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec-support-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec_junit_formatter (v0.2.3, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec_junit_formatter-0.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec_junit_formatter-0.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec_junit_formatter (v0.2.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rspec_junit_formatter-0.2.3/lib" />
       </CLASSES>
@@ -2246,7 +4388,63 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/lib" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.47.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/assets" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/config" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/assets" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/config" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubocop-0.47.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.52.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/config" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/config" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/assets" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.52.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/config" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/config" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/rubocop-0.52.1/assets" />
+      </SOURCES>
+    </library>
     <library name="ruby-prof (v0.16.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="ruby-prof (v0.16.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-prof-0.16.2/ext" />
@@ -2266,6 +4464,14 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-progressbar (v1.8.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-shadow (v2.5.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/pwd" />
@@ -2278,7 +4484,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-shadow (v2.5.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/pwd" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/shadow" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/pwd" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/shadow" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby-shadow-2.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_dep (v1.5.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby_dep-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby_dep-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_dep (v1.5.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ruby_dep-1.5.0/lib" />
       </CLASSES>
@@ -2302,7 +4528,31 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/util" />
       </SOURCES>
     </library>
+    <library name="rubygems-update (v2.6.14, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/hide_lib_for_update" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/bundler" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/util" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/hide_lib_for_update" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/bundler" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.14/util" />
+      </SOURCES>
+    </library>
     <library name="rubyntlm (v0.6.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubyntlm-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubyntlm-0.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubyntlm (v0.6.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubyntlm-0.6.1/lib" />
       </CLASSES>
@@ -2320,6 +4570,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.2.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/samples" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/samples" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rufus-lru (v1.1.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rufus-lru-1.1.0/lib" />
@@ -2328,7 +4588,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rufus-lru-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rufus-lru (v1.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rufus-lru-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/rufus-lru-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="safe_yaml (v1.0.4, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="safe_yaml (v1.0.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/safe_yaml-1.0.4/bin" />
@@ -2348,7 +4626,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sawyer-0.8.1/script" />
       </SOURCES>
     </library>
+    <library name="sawyer (v0.8.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sawyer-0.8.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sawyer-0.8.1/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sawyer-0.8.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sawyer-0.8.1/script" />
+      </SOURCES>
+    </library>
     <library name="semverse (v2.0.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/semverse-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/semverse-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="semverse (v2.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/semverse-2.0.0/lib" />
       </CLASSES>
@@ -2366,6 +4662,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/serverspec-2.41.3/bin" />
       </SOURCES>
     </library>
+    <library name="serverspec (v2.41.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/serverspec-2.41.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/serverspec-2.41.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/serverspec-2.41.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/serverspec-2.41.3/bin" />
+      </SOURCES>
+    </library>
     <library name="sfl (v2.3, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sfl-2.3/lib" />
@@ -2374,7 +4680,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sfl-2.3/lib" />
       </SOURCES>
     </library>
+    <library name="sfl (v2.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sfl-2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sfl-2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="shellany (v0.0.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/shellany-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/shellany-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="shellany (v0.0.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/shellany-0.0.1/lib" />
       </CLASSES>
@@ -2394,7 +4716,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/signet-0.7.3/tasks" />
       </SOURCES>
     </library>
+    <library name="signet (v0.7.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/signet-0.7.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/signet-0.7.3/website" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/signet-0.7.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/signet-0.7.3/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/signet-0.7.3/website" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/signet-0.7.3/tasks" />
+      </SOURCES>
+    </library>
     <library name="slop (v3.6.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
       </CLASSES>
@@ -2410,7 +4752,43 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/solve-3.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="solve (v3.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/solve-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/solve-3.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sparkr (v0.4.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/sparkr-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/sparkr-0.4.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/sparkr-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/sparkr-0.4.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="sparkr (v0.4.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/sparkr-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/sparkr-0.4.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/sparkr-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.3.0/gems/sparkr-0.4.1/bin" />
+      </SOURCES>
+    </library>
     <library name="specinfra (v2.72.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/specinfra-2.72.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/specinfra-2.72.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="specinfra (v2.72.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/specinfra-2.72.1/lib" />
       </CLASSES>
@@ -2426,7 +4804,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sslshake-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="sslshake (v1.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sslshake-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/sslshake-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="stuartpreston-azure-sdk-for-ruby (v0.7.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/stuartpreston-azure-sdk-for-ruby-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/stuartpreston-azure-sdk-for-ruby-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="stuartpreston-azure-sdk-for-ruby (v0.7.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/stuartpreston-azure-sdk-for-ruby-0.7.2/lib" />
       </CLASSES>
@@ -2442,7 +4836,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/syslog-logger-1.6.8/lib" />
       </SOURCES>
     </library>
+    <library name="syslog-logger (v1.6.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/syslog-logger-1.6.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/syslog-logger-1.6.8/lib" />
+      </SOURCES>
+    </library>
     <library name="systemu (v2.6.5, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/samples" />
+      </SOURCES>
+    </library>
+    <library name="systemu (v2.6.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/systemu-2.6.5/samples" />
@@ -2472,6 +4884,26 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/templates" />
       </SOURCES>
     </library>
+    <library name="test-kitchen (v1.16.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/.github" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/support" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/.bundle" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/.github" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/support" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/features" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-kitchen-1.16.0/templates" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.1.5, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
@@ -2482,7 +4914,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
       </SOURCES>
     </library>
+    <library name="test-unit (v3.1.5, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thor-0.19.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thor-0.19.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thor-0.19.1/bin" />
@@ -2506,7 +4958,29 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/lib" />
       </SOURCES>
     </library>
+    <library name="thread_safe (v0.3.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/lib" />
+      </SOURCES>
+    </library>
     <library name="timers (v4.0.4, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/timers-4.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/timers-4.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="timers (v4.0.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/timers-4.0.4/lib" />
       </CLASSES>
@@ -2522,7 +4996,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/toml-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="toml (v0.1.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/toml-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/toml-0.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="train (v0.23.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/train-0.23.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/train-0.23.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="train (v0.23.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/train-0.23.0/lib" />
       </CLASSES>
@@ -2540,7 +5030,25 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/treetop-1.6.8/bin" />
       </SOURCES>
     </library>
+    <library name="treetop (v1.6.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/treetop-1.6.8/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/treetop-1.6.8/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/treetop-1.6.8/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/treetop-1.6.8/bin" />
+      </SOURCES>
+    </library>
     <library name="trollop (v2.1.2, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/trollop-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/trollop-2.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="trollop (v2.1.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/trollop-2.1.2/lib" />
       </CLASSES>
@@ -2556,7 +5064,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="ubuntu_ami (v0.4.1, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ubuntu_ami-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ubuntu_ami-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ubuntu_ami (v0.4.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ubuntu_ami-0.4.1/lib" />
       </CLASSES>
@@ -2574,7 +5098,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="unicode-display_width (v1.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="uuid (v2.3.8, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuid-2.3.8/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuid-2.3.8/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuid-2.3.8/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuid-2.3.8/bin" />
+      </SOURCES>
+    </library>
+    <library name="uuid (v2.3.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuid-2.3.8/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuid-2.3.8/bin" />
@@ -2596,7 +5140,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/tasks" />
       </SOURCES>
     </library>
+    <library name="uuidtools (v2.1.5, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/website" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/website" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/tasks" />
+      </SOURCES>
+    </library>
     <library name="varia_model (v0.6.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/varia_model-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/varia_model-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="varia_model (v0.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/varia_model-0.6.0/lib" />
       </CLASSES>
@@ -2616,7 +5180,27 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-2.2.1/bin" />
       </SOURCES>
     </library>
+    <library name="winrm (v2.2.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-2.2.1/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-2.2.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-2.2.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-2.2.1/tests" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-2.2.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-2.2.1/bin" />
+      </SOURCES>
+    </library>
     <library name="winrm-elevated (v1.1.0, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="winrm-elevated (v1.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-elevated-1.1.0/lib" />
       </CLASSES>
@@ -2634,6 +5218,16 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-fs-1.0.1/bin" />
       </SOURCES>
     </library>
+    <library name="winrm-fs (v1.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-fs-1.0.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-fs-1.0.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-fs-1.0.1/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/winrm-fs-1.0.1/bin" />
+      </SOURCES>
+    </library>
     <library name="wmi-lite (v1.0.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/wmi-lite-1.0.0/lib" />
@@ -2642,7 +5236,23 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/wmi-lite-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="wmi-lite (v1.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/wmi-lite-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/wmi-lite-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="xml-simple (v1.1.5, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/xml-simple-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/xml-simple-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-simple (v1.1.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/xml-simple-1.1.5/lib" />
       </CLASSES>
@@ -2666,7 +5276,37 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/ext" />
       </SOURCES>
     </library>
+    <library name="yajl-ruby (v1.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/benchmark" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/script" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/benchmark" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/tasks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/script" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.0/ext" />
+      </SOURCES>
+    </library>
     <library name="yard (v0.9.8, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/benchmarks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/lib" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/bin" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/benchmarks" />
+        <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/templates" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.9.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/yard-0.9.8/bin" />
