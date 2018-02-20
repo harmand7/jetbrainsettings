@@ -1186,11 +1186,13 @@
     </library>
     <library name="hitimes (v1.2.4, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hitimes/1.2.4" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/tasks" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/hitimes/1.2.4" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/lib" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/tasks" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/ext" />
@@ -1288,6 +1290,7 @@
     </library>
     <library name="json (v1.8.6, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/tools" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
@@ -1297,6 +1300,7 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/tools" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
@@ -1694,11 +1698,13 @@
     </library>
     <library name="nio4r (v2.0.0, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.0.0" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.0.0" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/lib" />
