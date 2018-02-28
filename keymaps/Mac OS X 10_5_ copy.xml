@@ -1,8 +1,13 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
