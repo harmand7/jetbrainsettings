@@ -4,6 +4,7 @@
       <mapping pattern="to_be_deleted" type="PLAIN_TEXT" />
       <mapping pattern="bip0319p01" type="PLAIN_TEXT" />
       <mapping pattern="change_device_hostname" type="PLAIN_TEXT" />
+      <mapping ext="ps1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
