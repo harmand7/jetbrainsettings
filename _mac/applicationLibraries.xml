@@ -2004,6 +2004,7 @@
     </library>
     <library name="nokogiri (v1.8.1, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/bin" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/patches" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/suppressions" />
@@ -2013,6 +2014,7 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/bin" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/patches" />
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/suppressions" />
