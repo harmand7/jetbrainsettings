@@ -1,8 +1,4 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>

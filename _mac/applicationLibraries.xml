@@ -3068,6 +3068,18 @@
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/thread_safe-0.3.6/tasks" />
       </SOURCES>
     </library>
+    <library name="tilt (v2.0.8, Chef DK: /opt/chefdk) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.4.0/gems/tilt-2.0.8/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.4.0/gems/tilt-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.4.0/gems/tilt-2.0.8/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.4.0/gems/tilt-2.0.8/lib" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.4.0/gems/tilt-2.0.8/bin" />
+        <root url="file://$USER_HOME$/.chefdk/gem/ruby/2.4.0/gems/tilt-2.0.8/man" />
+      </SOURCES>
+    </library>
     <library name="timers (v4.0.4, Chef DK: /opt/chefdk) [gem]">
       <CLASSES>
         <root url="file:///opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/timers-4.0.4/lib" />
